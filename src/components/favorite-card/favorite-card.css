@@ -1,0 +1,11 @@
+.favorite-cards {
+  display: flex;
+  column-gap: 1rem;
+}
+
+.favorite-card {
+  width: 132px;
+  height: 144px;
+  left: 28px;
+  top: 534px;
+}
